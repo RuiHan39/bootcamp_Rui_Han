@@ -3,8 +3,11 @@
 ### Folder structure
 
 project-root/
+
 ├── data/
+
 │   ├── raw/          # Original, immutable downloads
+
 │   └── processed/    # Cleaned, enriched, or derived artifacts
 
 
